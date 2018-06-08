@@ -26,4 +26,4 @@ $ python label_image image_filename.jpg
 
 # Demo
 
-![demo]()
+![demo](https://github.com/Anyesh/TF_Image_Classifier/blob/master/demo.png)
